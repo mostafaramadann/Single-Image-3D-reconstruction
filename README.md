@@ -1,5 +1,5 @@
 # Single-Image-3D-reconstruction
-A repo dedicated for recreating this paper https://arxiv.org/abs/1604.08685
+A repo dedicated for implementing this paper https://arxiv.org/abs/1604.08685
 
 ## demo
 
